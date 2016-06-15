@@ -1,15 +1,15 @@
-layout_spectrum: 0.1391773009672761
+layout_spectrum: 0.23640455910935998
 typography_spectrum: 0.4601855049841106
 color:
-  brandStrength: 0.054017175920307636
-  lightness: 0.964593660319224
-  saturation: 0.4706980080809444
-  rhythmicContrast: 0.7675944627262652
+  brandStrength: 0.40021507535129786
+  lightness: 0.8563287800643593
+  saturation: 0.6181556626688689
+  rhythmicContrast: 0.4585127355530858
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
 name: Just Red Band Trailers
 title: THE Source for Red Band Trailers
