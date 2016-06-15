@@ -1,15 +1,15 @@
-layout_spectrum: 0.5932939311023802
-typography_spectrum: 0.07759599480777979
+layout_spectrum: 0.6869069414678961
+typography_spectrum: 0.1425414269324392
 color:
-  brandStrength: 0.1279156464152038
-  lightness: 0.3185034354683012
-  saturation: 0.5307739705312997
-  rhythmicContrast: 0.7214182934258133
+  brandStrength: 0.04724095179699361
+  lightness: 0.5231397992465645
+  saturation: 0.08879172941669822
+  rhythmicContrast: 0.04373784107156098
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: Just Red Band Trailers
 title: Only Red Band Movie Trailers All The TIme
