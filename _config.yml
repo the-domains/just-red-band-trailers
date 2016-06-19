@@ -1,15 +1,29 @@
-layout_spectrum: 0.16610164591111243
-typography_spectrum: 0.9052695143036544
+name: Just Red Band Trailers
+favicon: null
+layout_spectrum: 0.46189
+typography_spectrum: 0.52283
+title: THE Source for Red Band Trailers
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8506506038829684
-  lightness: 0.4139580773189664
-  saturation: 0.8550998312421143
-  rhythmicContrast: 0.3375485234428197
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: Just Red Band Trailers
-title: THE Source for Red Band Trailers
+  brandStrength: 0.8506506038829684
+  lightness: 0.4139580773189664
+  saturation: 0.5625
+  rhythmicContrast: 0.3375485234428197
+purpose: []
