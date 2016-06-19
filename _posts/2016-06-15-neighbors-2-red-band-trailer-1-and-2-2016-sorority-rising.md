@@ -1,14 +1,9 @@
 ---
-author:
-  - name: New Trailer Buzz
-    url: 'https://www.youtube.com/user/NewTrailersBuzz'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=UUzOb5Yx0y4'
+inLanguage: en
 keywords:
   - rogen
   - neighbors
@@ -26,7 +21,13 @@ description: >-
   Rogen) and Kelly (Rose Byrne) are ready to make the final move into adulthood.
   But just as they thought they have reclaimed the neighborhood, they learn that
   their new neighbors are even more out of control than the last.
-inLanguage: en
+datePublished: '2016-06-19T22:18:35.413Z'
+dateModified: '2016-06-19T22:18:35.094Z'
+author:
+  - name: New Trailer Buzz
+    url: 'https://www.youtube.com/user/NewTrailersBuzz'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=UUzOb5Yx0y4&feature=applinks'
     type: ios
@@ -64,15 +65,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=UUzOb5Yx0y4'
 title: NEIGHBORS 2 Red-Band Trailer 1 & 2 (2016) Sorority Rising
-datePublished: '2016-06-15T21:37:41.441Z'
-dateModified: '2016-06-15T21:18:23.140Z'
-starred: false
 sourcePath: _posts/2016-06-15-neighbors-2-red-band-trailer-1-and-2-2016-sorority-rising.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
